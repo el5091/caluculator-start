@@ -1,0 +1,26 @@
+FEEDBACK
+Check off each one after you have completed it (if it's doable).
+
+1. NEVER have spaces in your file names ever. Read up on naming conventions of files, function names,
+and your main function. Also, your functions and variables should all have meaningful names.
+
+2. This is an okay start. I want you to get into the habit of documenting your code. Read up on how to document
+your code. This is crucial when it comes to collaborating.
+
+3. I do not like how you ask for a 1,2,3 or 4. Just let the the user input in their operation using +,-,*, or /.
+
+4. For division, what happens if there are remainders? How will you display that?
+Hint: The mod function - %
+
+5. Double check your spacing and indentation. There's a reason you see errors and the code on lines 37 and later
+are greyed out.
+
+6. You are just going add right now. You can move the `result` stuff (currently line 22) into each choice
+and then print it out.
+
+7. Read up on how to create the `main` function. That's where this `while` loop code should go.
+
+8. Getting more advanced: Look up how to do `match` and `case` in python. This will make your code easier and less
+redundant.
+
+9. Do you know how to run this file in the command line/terminal? If not, read up on that too.
